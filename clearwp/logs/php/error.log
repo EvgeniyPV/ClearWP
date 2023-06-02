@@ -1,0 +1,173 @@
+[01-Jun-2023 14:55:46 UTC] PHP Warning:  file_get_contents(C:\Users\Admin\Local Sites\clearwp\app\public/wp-content/plugins/houses-build/bookingplug.php): Failed to open stream: No such file or directory in C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\functions.php on line 6651
+[01-Jun-2023 17:59:30 UTC] PHP Warning:  Undefined variable $housebuild in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 47
+[01-Jun-2023 17:59:30 UTC] PHP Warning:  Undefined variable $housebuild in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 48
+[01-Jun-2023 17:59:30 UTC] PHP Warning:  Undefined variable $housebuild in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 47
+[01-Jun-2023 17:59:30 UTC] PHP Warning:  Undefined variable $housebuild in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 48
+[01-Jun-2023 18:00:50 UTC] PHP Warning:  Undefined variable $housebuild in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 47
+[01-Jun-2023 18:00:50 UTC] PHP Warning:  Undefined variable $housebuild in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 48
+[01-Jun-2023 18:00:50 UTC] PHP Warning:  Undefined variable $housebuild in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 47
+[01-Jun-2023 18:00:50 UTC] PHP Warning:  Undefined variable $housebuild in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 48
+[01-Jun-2023 18:17:11 UTC] PHP Parse error:  syntax error, unexpected identifier "add_theme_support", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 30
+[01-Jun-2023 18:17:47 UTC] PHP Parse error:  syntax error, unexpected token "public" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 49
+[01-Jun-2023 18:17:50 UTC] PHP Parse error:  syntax error, unexpected token "public" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 49
+[01-Jun-2023 18:17:50 UTC] PHP Parse error:  syntax error, unexpected token "public" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 49
+[01-Jun-2023 18:18:09 UTC] PHP Parse error:  syntax error, unexpected token "if", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 60
+[01-Jun-2023 18:18:09 UTC] PHP Parse error:  syntax error, unexpected token "if", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 60
+[01-Jun-2023 18:18:29 UTC] PHP Parse error:  syntax error, unexpected identifier "register_activation_hook", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 66
+[01-Jun-2023 18:18:29 UTC] PHP Parse error:  syntax error, unexpected identifier "register_activation_hook", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 66
+[01-Jun-2023 18:19:12 UTC] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 15
+[01-Jun-2023 18:19:12 UTC] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 15
+[01-Jun-2023 18:19:12 UTC] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 15
+[01-Jun-2023 18:19:45 UTC] PHP Warning:  Undefined variable $housebuild in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 47
+[01-Jun-2023 18:19:45 UTC] PHP Warning:  Undefined variable $housebuild in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 48
+[01-Jun-2023 18:19:45 UTC] PHP Warning:  Undefined variable $housebuild in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 47
+[01-Jun-2023 18:19:45 UTC] PHP Warning:  Undefined variable $housebuild in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 48
+[01-Jun-2023 18:21:13 UTC] PHP Parse error:  syntax error, unexpected identifier "add_theme_support", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 30
+[01-Jun-2023 18:21:19 UTC] PHP Parse error:  syntax error, unexpected identifier "add_theme_support", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 30
+[01-Jun-2023 18:23:14 UTC] PHP Parse error:  syntax error, unexpected identifier "add_theme_support", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 30
+[01-Jun-2023 18:23:19 UTC] PHP Parse error:  syntax error, unexpected identifier "add_theme_support", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 30
+[01-Jun-2023 18:25:15 UTC] PHP Parse error:  syntax error, unexpected token "=>" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 46
+[01-Jun-2023 18:25:59 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "supports", expecting ")" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 46
+[01-Jun-2023 18:25:59 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "supports", expecting ")" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 46
+[01-Jun-2023 18:29:17 UTC] PHP Parse error:  syntax error, unexpected identifier "register_taxonomy", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 30
+[01-Jun-2023 18:29:30 UTC] PHP Warning:  Undefined variable $housebuild in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 46
+[01-Jun-2023 18:29:32 UTC] PHP Warning:  Undefined variable $housebuild in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 46
+[01-Jun-2023 18:29:32 UTC] PHP Warning:  Undefined variable $housebuild in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 46
+[01-Jun-2023 18:30:07 UTC] PHP Parse error:  syntax error, unexpected identifier "register_taxonomy", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 48
+[01-Jun-2023 18:30:07 UTC] PHP Parse error:  syntax error, unexpected identifier "register_taxonomy", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 48
+[01-Jun-2023 18:32:32 UTC] PHP Parse error:  syntax error, unexpected variable "$housebuild", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 30
+[01-Jun-2023 18:32:32 UTC] PHP Parse error:  syntax error, unexpected variable "$housebuild", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 30
+[01-Jun-2023 18:32:54 UTC] PHP Parse error:  syntax error, unexpected variable "$args", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 30
+[01-Jun-2023 18:32:54 UTC] PHP Parse error:  syntax error, unexpected variable "$args", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 30
+[01-Jun-2023 18:33:19 UTC] PHP Parse error:  syntax error, unexpected variable "$args", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 30
+[01-Jun-2023 18:35:20 UTC] PHP Parse error:  syntax error, unexpected variable "$args", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 30
+[01-Jun-2023 18:36:14 UTC] PHP Parse error:  Unmatched '}' in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 28
+[01-Jun-2023 18:36:14 UTC] PHP Parse error:  Unmatched '}' in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 28
+[01-Jun-2023 18:36:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function taxonomy_exist() in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php:52
+Stack trace:
+#0 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(308): housebuild_register_post_type('')
+#1 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\Admin\Local Sites\clearwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\Admin\Local Sites\clearwp\app\public\wp-config.php(93): require_once('C:\\Users\\Admin\\...')
+#5 C:\Users\Admin\Local Sites\clearwp\app\public\wp-load.php(50): require_once('C:\\Users\\Admin\\...')
+#6 C:\Users\Admin\Local Sites\clearwp\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Admin\\...')
+#7 C:\Users\Admin\Local Sites\clearwp\app\public\wp-admin\post-new.php(10): require_once('C:\\Users\\Admin\\...')
+#8 {main}
+  thrown in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 52
+[01-Jun-2023 18:36:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function taxonomy_exist() in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php:52
+Stack trace:
+#0 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(308): housebuild_register_post_type('')
+#1 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\Admin\Local Sites\clearwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\Admin\Local Sites\clearwp\app\public\wp-config.php(93): require_once('C:\\Users\\Admin\\...')
+#5 C:\Users\Admin\Local Sites\clearwp\app\public\wp-load.php(50): require_once('C:\\Users\\Admin\\...')
+#6 C:\Users\Admin\Local Sites\clearwp\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Admin\\...')
+#7 C:\Users\Admin\Local Sites\clearwp\app\public\index.php(17): require('C:\\Users\\Admin\\...')
+#8 {main}
+  thrown in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 52
+[01-Jun-2023 18:37:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function taxonomy_exist() in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php:52
+Stack trace:
+#0 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(308): housebuild_register_post_type('')
+#1 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\Admin\Local Sites\clearwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\Admin\Local Sites\clearwp\app\public\wp-config.php(93): require_once('C:\\Users\\Admin\\...')
+#5 C:\Users\Admin\Local Sites\clearwp\app\public\wp-load.php(50): require_once('C:\\Users\\Admin\\...')
+#6 C:\Users\Admin\Local Sites\clearwp\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Admin\\...')
+#7 {main}
+  thrown in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 52
+[01-Jun-2023 18:37:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function taxonomy_exist() in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php:52
+Stack trace:
+#0 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(308): housebuild_register_post_type('')
+#1 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\Admin\Local Sites\clearwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\Admin\Local Sites\clearwp\app\public\wp-config.php(93): require_once('C:\\Users\\Admin\\...')
+#5 C:\Users\Admin\Local Sites\clearwp\app\public\wp-load.php(50): require_once('C:\\Users\\Admin\\...')
+#6 C:\Users\Admin\Local Sites\clearwp\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Admin\\...')
+#7 C:\Users\Admin\Local Sites\clearwp\app\public\wp-admin\post-new.php(10): require_once('C:\\Users\\Admin\\...')
+#8 {main}
+  thrown in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 52
+[01-Jun-2023 18:37:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function taxonomy_exist() in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php:52
+Stack trace:
+#0 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(308): housebuild_register_post_type('')
+#1 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\Admin\Local Sites\clearwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\Admin\Local Sites\clearwp\app\public\wp-config.php(93): require_once('C:\\Users\\Admin\\...')
+#5 C:\Users\Admin\Local Sites\clearwp\app\public\wp-load.php(50): require_once('C:\\Users\\Admin\\...')
+#6 C:\Users\Admin\Local Sites\clearwp\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Admin\\...')
+#7 C:\Users\Admin\Local Sites\clearwp\app\public\index.php(17): require('C:\\Users\\Admin\\...')
+#8 {main}
+  thrown in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 52
+[01-Jun-2023 18:38:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function taxonomy_exist() in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php:52
+Stack trace:
+#0 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(308): housebuild_register_post_type('')
+#1 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\Admin\Local Sites\clearwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\Admin\Local Sites\clearwp\app\public\wp-config.php(93): require_once('C:\\Users\\Admin\\...')
+#5 C:\Users\Admin\Local Sites\clearwp\app\public\wp-load.php(50): require_once('C:\\Users\\Admin\\...')
+#6 C:\Users\Admin\Local Sites\clearwp\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Admin\\...')
+#7 C:\Users\Admin\Local Sites\clearwp\app\public\wp-admin\post-new.php(10): require_once('C:\\Users\\Admin\\...')
+#8 {main}
+  thrown in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 52
+[01-Jun-2023 18:38:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function taxonomy_exist() in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php:52
+Stack trace:
+#0 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(308): housebuild_register_post_type('')
+#1 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\Admin\Local Sites\clearwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\Admin\Local Sites\clearwp\app\public\wp-config.php(93): require_once('C:\\Users\\Admin\\...')
+#5 C:\Users\Admin\Local Sites\clearwp\app\public\wp-load.php(50): require_once('C:\\Users\\Admin\\...')
+#6 C:\Users\Admin\Local Sites\clearwp\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Admin\\...')
+#7 C:\Users\Admin\Local Sites\clearwp\app\public\index.php(17): require('C:\\Users\\Admin\\...')
+#8 {main}
+  thrown in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 52
+[01-Jun-2023 18:38:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function taxonomy_exist() in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php:52
+Stack trace:
+#0 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(308): housebuild_register_post_type('')
+#1 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\Admin\Local Sites\clearwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\Admin\Local Sites\clearwp\app\public\wp-config.php(93): require_once('C:\\Users\\Admin\\...')
+#5 C:\Users\Admin\Local Sites\clearwp\app\public\wp-load.php(50): require_once('C:\\Users\\Admin\\...')
+#6 C:\Users\Admin\Local Sites\clearwp\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Admin\\...')
+#7 C:\Users\Admin\Local Sites\clearwp\app\public\wp-admin\post-new.php(10): require_once('C:\\Users\\Admin\\...')
+#8 {main}
+  thrown in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 52
+[01-Jun-2023 18:38:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function taxonomy_exist() in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php:52
+Stack trace:
+#0 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(308): housebuild_register_post_type('')
+#1 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\Admin\Local Sites\clearwp\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\Admin\Local Sites\clearwp\app\public\wp-settings.php(623): do_action('init')
+#4 C:\Users\Admin\Local Sites\clearwp\app\public\wp-config.php(93): require_once('C:\\Users\\Admin\\...')
+#5 C:\Users\Admin\Local Sites\clearwp\app\public\wp-load.php(50): require_once('C:\\Users\\Admin\\...')
+#6 C:\Users\Admin\Local Sites\clearwp\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Admin\\...')
+#7 C:\Users\Admin\Local Sites\clearwp\app\public\index.php(17): require('C:\\Users\\Admin\\...')
+#8 {main}
+  thrown in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 52
+[01-Jun-2023 18:45:31 UTC] PHP Parse error:  syntax error, unexpected token "if", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 59
+[01-Jun-2023 18:53:05 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 46
+[01-Jun-2023 19:03:21 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 55
+[01-Jun-2023 19:04:21 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 55
+[01-Jun-2023 19:04:40 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 55
+[01-Jun-2023 19:04:40 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 55
+[01-Jun-2023 19:05:07 UTC] PHP Parse error:  syntax error, unexpected identifier "register_taxonomy", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 46
+[01-Jun-2023 19:05:07 UTC] PHP Parse error:  syntax error, unexpected identifier "register_taxonomy", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 46
+[01-Jun-2023 19:05:27 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 55
+[01-Jun-2023 19:05:27 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 55
+[01-Jun-2023 19:09:54 UTC] PHP Parse error:  syntax error, unexpected identifier "register_taxonomy", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 46
+[01-Jun-2023 19:09:54 UTC] PHP Parse error:  syntax error, unexpected identifier "register_taxonomy", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 46
+[01-Jun-2023 19:10:12 UTC] PHP Parse error:  syntax error, unexpected identifier "register_taxonomy", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 57
+[01-Jun-2023 19:10:12 UTC] PHP Parse error:  syntax error, unexpected identifier "register_taxonomy", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 57
+[01-Jun-2023 19:11:02 UTC] PHP Parse error:  syntax error, unexpected identifier "register_taxonomy", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 30
+[01-Jun-2023 19:11:02 UTC] PHP Parse error:  syntax error, unexpected identifier "register_taxonomy", expecting "function" or "const" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\houses-build\housebuild.php on line 30
+[02-Jun-2023 13:40:34 UTC] PHP Parse error:  syntax error, unexpected identifier "estates_html", expecting "(" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\alebooking-main\alebooking.php on line 103
+[02-Jun-2023 13:40:37 UTC] PHP Parse error:  syntax error, unexpected identifier "estates_html", expecting "(" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\alebooking-main\alebooking.php on line 103
+[02-Jun-2023 13:40:37 UTC] PHP Parse error:  syntax error, unexpected identifier "estates_html", expecting "(" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\alebooking-main\alebooking.php on line 103
+[02-Jun-2023 13:41:00 UTC] PHP Parse error:  syntax error, unexpected identifier "estates_html", expecting "(" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\alebooking-main\alebooking.php on line 103
+[02-Jun-2023 13:41:00 UTC] PHP Parse error:  syntax error, unexpected identifier "estates_html", expecting "(" in C:\Users\Admin\Local Sites\clearwp\app\public\wp-content\plugins\alebooking-main\alebooking.php on line 103
